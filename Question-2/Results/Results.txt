@@ -1,0 +1,11 @@
+Firstly, in the dataset given there are no missing values.
+Set a seed of 7.
+
+2.a In this question asked to compare the mean and max highest glucose values of population and sample of 25. There is a difference of 13 in mean(sample as high) and 10 in max values(population is high with 10).
+
+The 13-unit difference in mean glucose levels suggests sampling bias or inadequate representation, while the 10-unit difference in maximum glucose values indicates potential underestimation of high glucose levels in the sample compared to the population.
+
+
+2.b calculated the BMI of the sample and population, sample BMI lies between 40-43 and population BMI 98th percentile lies between 47 to 50. The sample's BMI range of 40-43 indicates relatively lower body mass indices compared to the population, where the 98th percentile BMI range of 47-50 suggests a higher prevalence of obesity or overweight individuals in the population.
+
+2.c In bootstraping method, we got a better results as compared to sample of 25 and comparition tells us that they are almost similar in numbers as the population.
